@@ -1,4 +1,4 @@
-var filename = 'sealdice-js-ext.js'
+var filename = 'send_msg.js'
 
 module.exports = {
   dev: {

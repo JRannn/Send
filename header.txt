@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         模板项目
-// @author       作者名
+// @name         send
+// @author       反季节生物
 // @version      1.0.0
-// @description  这是海豹的js扩展模板项目，请自行修改信息
+// @description  抢卡插件
 // @timestamp    1674477074
 // 2023/1/23
 // @license      MIT
-// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// @homepageURL  https://github.com/JRannn/Send
 // ==/UserScript==
